@@ -44,7 +44,7 @@ if user not logged-in then won't save data to database and will not calculate cu
 Via WordPress -
 1. Install as regular WordPress plugin.
 2. Go your Pluings setting via WordPress Dashboard and activate it.
-3. Paste code anywhere in your theme files '<?php  kento_notify(); ?>' (usually paste on header.php will display all page)
+3. Paste code anywhere in your theme files `<?php kento_notify(); ?>` (usually paste on header.php will display all page)
 3. This Plugin Doesn't have any setting page.
 4. By visiting your site see the result.
 
