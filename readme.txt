@@ -1,5 +1,5 @@
 === Kento Notify ===
-Contributors: hasanrang05
+Contributors: kentothemes
 Donate link: 
 Tags:  wordpress notification, comments notifier, notifier, wp notification
 Requires at least: 3.5
